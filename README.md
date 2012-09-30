@@ -35,10 +35,16 @@ e.set(headerName, value);
 ```
 
 ## Contributing
+Project requires google closure library. It is expected to be in the 'closure-library' folder of the project's root. This folder is in the `.gitignore` file. If you want to get the closure library plainly clone it from the project's root folder:
+```
+git clone https://github.com/jarib/google-closure-library.git closure-library
+```
+
+
 
 ## Release History
 _(Nothing yet)_
 
 ## License
 Copyright (c) 2012 Thanasis Polychronakis
-Licensed under the MIT, GPL licenses.
+Licensed under the MIT license.
