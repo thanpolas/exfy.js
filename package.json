@@ -22,8 +22,9 @@
       "url": "https://github.com/thanpolas/jpeg-headers.js/blob/master/LICENSE-MIT"
     }
   ],
-  "dependencies": {
-    "grunt-closure-tools": "*"
+  "devDependencies": {
+    "grunt-closure-tools": "*",
+    "connect": "2.5.x"
   },
   "keywords": []
 }
