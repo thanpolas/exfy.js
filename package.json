@@ -1,0 +1,29 @@
+{
+  "name": "jpeg-headers",
+  "title": "Jpeg Headers",
+  "description": "read and write jpeg meta headers",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thanpolas/jpeg-headers.js",
+  "author": {
+    "name": "Thanasis Polychronakis",
+    "email": "thanpolas@gmail.com",
+    "url": "http://github.com/thanpolas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thanpolas/jpeg-headers.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thanpolas/jpeg-headers.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/thanpolas/jpeg-headers.js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "grunt-closure-tools": "*"
+  },
+  "keywords": []
+}
